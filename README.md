@@ -1,2 +1,2 @@
 # Snake-Game
-The Employee Management Application is a Java-based software that simplifies employee information management. It empowers HR departments and managers to add, view, update, and delete employee records.
+ In our childhood, nearly all of us enjoyed playing classic snake games. Now we will try to enhance it with the help of Java concepts. The concept appears to be easy but it is not that effortless to implement.
